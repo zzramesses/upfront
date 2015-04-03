@@ -1,0 +1,21 @@
+/*doc
+---
+title: First Button
+name: first-button
+category: Elements - Buttons
+---
+
+```html_example
+<button class="btn btnDefault">Click</button>
+
+<a class="btn btnDefault" href="trulia.com">Trulia!</a>
+```
+
+*/
+.btn {
+  width: 200px; }
+
+.btnDefault {
+  color: blue; }
+
+/*# sourceMappingURL=style.css.map */
